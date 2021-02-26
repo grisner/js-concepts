@@ -1,0 +1,19 @@
+syntax = "proto3";
+
+package shipnet;
+ 
+
+service WorkerNode {
+  rpc doTask(Task) returns (Result) {}
+}
+
+message Task {
+ string fn = 1;
+ string data = 2;
+}
+
+
+message Result {
+  string payload = 1;
+  
+}

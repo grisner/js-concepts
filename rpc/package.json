@@ -1,0 +1,17 @@
+{
+  "name": "rpctest",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "s": "node server.js"
+  },
+  "author": "Mikael Nilsson",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    	"@grpc/grpc-js": "1.2.7",
+    	"@grpc/proto-loader": "0.5.6"
+  	}
+}
+
