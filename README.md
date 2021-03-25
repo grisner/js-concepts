@@ -12,3 +12,6 @@ Had some problems with handling arrays in a React form, so I needed to strip awa
 
 ## react-jest
 Needed to isolate some concepts around a react-jest-test. This one could be even smaller, I just copied a few files from another project.
+
+## Vue hooks
+My vue hooks didn't do what I wanted them to, so I created a project that only logs when each hook runs, just to have something to compare to
