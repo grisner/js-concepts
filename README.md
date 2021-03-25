@@ -9,3 +9,6 @@ Played around with specifically sending functions between nodes via rpc.
 
 ## react-update-array
 Had some problems with handling arrays in a React form, so I needed to strip away all the other stuff to see what I was doing.
+
+## react-jest
+Needed to isolate some concepts around a react-jest-test. This one could be even smaller, I just copied a few files from another project.
