@@ -15,3 +15,6 @@ Needed to isolate some concepts around a react-jest-test. This one could be even
 
 ## Vue hooks
 My vue hooks didn't do what I wanted them to, so I created a project that only logs when each hook runs, just to have something to compare to
+
+## Srcset
+We discussed the srcset property of the img html element so I just felt I needed to do a simple test, just to make sure it was as simple as I thought. It was :).
